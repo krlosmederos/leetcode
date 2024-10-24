@@ -1,0 +1,29 @@
+# Go build artifacts
+*.exe
+*.exe~
+*.out
+*.test
+*.so
+*.a
+*.o
+
+# Dependency directories
+/vendor/
+
+# Go workspace files
+go.work
+go.sum
+
+# IDE specific files
+.idea/
+.vscode/
+*.vscode/
+*.swp
+*.swo
+
+# GitHub Codespaces
+.codespaces/
+
+# OS generated files
+.DS_Store
+Thumbs.db
